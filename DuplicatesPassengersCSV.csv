@@ -1,0 +1,3 @@
+PassengerFirstName,PassengerSecondName,PassengerLastName,PassengerSex,PassengerBirthDate,PassengerDocument,BookingCode,TicketNumber,Baggage,FlightDate,FlightTime,FlightNumber,CodeShare,Destination
+GORDEI,M.,GLEBOV,Male,12/31/1982,8248 013778,Not presented,5858732412927507,Registered,2017-03-09,07:15,SU1276,Own,Kazan
+RAMIL,ALBERTOVICH,BUROV,Male,08/24/1995,8248 013778,Not presented,7230123462656045,Registered,2017-01-03,11:15,SU1273,Own,Moscow
